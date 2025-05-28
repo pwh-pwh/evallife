@@ -26,12 +26,12 @@
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "#",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "coderpwh:plmoknpwh@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
