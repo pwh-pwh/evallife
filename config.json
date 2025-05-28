@@ -6,7 +6,7 @@
 	},
 	"intro": {
 		"title": "Coderpwh",
-		"subtitle": "Front back left right end engineer",
+		"subtitle": "Code life just for fun.",
 		"enter": "enter",
 		"supportAuthor": false,
 		"background": true
@@ -21,7 +21,7 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://evallife.lol",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
